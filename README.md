@@ -25,7 +25,7 @@ Data analytics, visualisation and Python projects from my Business Analytics stu
 | 5 | [**Python GUI and Logic Exercises**](05-python-gui-and-logic-exercises) | Small apps and algorithms, each written as pseudocode first | Python |
 
 <p align="center">
-  <img src="01-ev-infrastructure-dashboard/assets/datalicious_infographic_preview.jpg" width="320" alt="DATAlicious EV infographic">
+
 </p>
 
 ## Notes
