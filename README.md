@@ -2,7 +2,7 @@
 
 Data analytics, visualisation and Python projects from my Business Analytics studies. Each folder is a self-contained project with its own README.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
+**Contact:** [LinkedIn]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/annakazachkova/)) · [Email](mailto:akazachkova.ieu2024@student.ie.edu)
 
 ## Skills shown here
 
