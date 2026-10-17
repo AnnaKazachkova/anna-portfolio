@@ -27,5 +27,4 @@ Full resolution: [`assets/datalicious_infographic.jpg`](assets/datalicious_infog
 _I was the main data analyst and coordinator of the team, I am also responsible for layout design of the presentation and infographic._
 
 ## Data
-_[ev_congestion_grid.csv](https://github.com/user-attachments/files/33598119/ev_congestion_grid.csv)
-._
+_._
