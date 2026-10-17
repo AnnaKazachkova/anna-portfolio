@@ -1,4 +1,4 @@
-# Anna Kazachkova | Data & Python Portfolio
+# Anna Kazachkova 
 
 Dual Bachelor in Business Administration and Data & Business Analytics student at IE University (Madrid, Spain). I work with data analytics, visualisation, econometrics and Python, with interests in strategy, technology, innovation and business development.
 
