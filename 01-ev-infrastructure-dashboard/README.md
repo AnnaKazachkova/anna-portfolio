@@ -1,8 +1,8 @@
 # EV Infrastructure Dashboard (team DATAlicious)
 
-**Question:** Are electric vehicles as promising as they seem?
+Our team asked a **question:** Are electric vehicles as promising as they seem?
 
-A team infographic and presentation on the global EV ecosystem: charging station counts, fast-charger share, infrastructure stress by country, and an adoption forecast with an uncertainty band.
+The infographic and presentation on the global EV ecosystem: charging station counts, fast-charger share, infrastructure stress by country, and an adoption forecast with an uncertainty band.
 
 ![Infographic](assets/datalicious_infographic_preview.jpg)
 
@@ -24,7 +24,7 @@ Full resolution: [`assets/datalicious_infographic.jpg`](assets/datalicious_infog
 - Forecast band produced by [`src/ev_monte_carlo_forecast.R`](src/ev_monte_carlo_forecast.R): 5,000 normal draws per region and year around the mean of the APS and STEPS scenarios, with spread scaled by the gap between them, clipped to 0-100.
 
 ## My role
-_Add 1-2 lines on exactly what you did (for example: Tableau charts, R simulation, infographic layout)._
+_I was the main data analyst and coordinator of the team, I am also responsible for layout design of the presentation and infographic._
 
 ## Data
-_Add the dataset source and link here._
+_._
