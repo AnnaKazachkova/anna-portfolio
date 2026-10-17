@@ -37,8 +37,7 @@ Eligible to sign an internship agreement via IE University.
 | 6 | [**BBVA Corporate Culture Index**](06-bbva-corporate-culture-index) | Client project for BBVA: a quantitative index that measures how corporate values are embedded, with a live Excel model and five econometric models | Excel, Python, Tableau, Refinitiv |
 
 <p align="center">
-  <img src="01-ev-infrastructure-dashboard/assets/datalicious_infographic_preview.jpg" width="320" alt="EV infrastructure infographic">
-</p>
+  
 
 ## Recognition
 
